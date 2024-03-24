@@ -15,16 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 백준 알고리즘 티어
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mission705)](https://solved.ac/mission705/)
-
-## Skills
-
-### Strong
-
-java, springboot, spring MVC, spring security, spring batch, spring session, jpa, oracle
-
-### Knowledgeable
-
-spring webflux, mariaDB, redis, kafka
+💬 컴퓨터 전공 지식을 베이스로 프로젝트 개발시 자연스럽게 적용하는 백엔드 개발자입니다.
